@@ -1,28 +1,39 @@
-This Tableau project explores the Sample Superstore dataset to uncover insights into sales, profit, and customer behavior across different regions, categories, and segments
-The goal is to perform an in-depth business performance analysis and identify key factors influencing profitability.
+## Superstore Dataset Analysis
 
-# Objectives
+# Overview
+This Tableau project analyzes the Sample Superstore dataset to uncover insights on sales, profit, and customer behavior across regions, categories, and segments
 
-- Analyze sales and profit trends across time periods.
+# Key Insights
 
-- Identify top-performing product categories and sub-categories.
+- West Region leads in revenue but has varying profit margins.
 
-- Understand regional sales distribution and customer segments.
+- Tables and Bookcases show consistent losses.
 
-- Detect loss-making products or regions for business improvement.
+- Higher discounts often reduce profitability.
 
-- Provide data-driven recommendations to improve profitability and growth.
+- Corporate segment performs steadily across years.
 
-# Dataset Information
+# Dashboards
 
-- Dataset Name: Sample Superstore
+- Sales Overview: Trends and key metrics
 
-- Source: Tableau’s built-in sample dataset (can be found in Tableau Desktop).
+- Regional Performance: Map-based sales & profit analysis
 
-- Key Columns:
+- Category Analysis: Best and worst-performing products
 
-     -Order ID, Order Date, Ship Mode
+- Customer Segment: Profitability by customer type
 
-     -Customer Name, Segment, Region
+# Tools
 
-     -Category, Sub-Category, Sales, Profit, Quantity, Discount
+- Tableau Desktop / Public
+
+- Dataset: Tableau’s built-in Superstore
+
+# How to Use
+
+- Open Sample Superstore Dataset Analysis.twbx in Tableau.
+
+- Explore dashboards using filters and charts.
+
+- Use insights to identify profit improvement opportunities.
+  
