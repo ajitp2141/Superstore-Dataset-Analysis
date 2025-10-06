@@ -1,5 +1,5 @@
-## This Tableau project explores the Sample Superstore dataset to uncover insights into sales, profit, and customer behavior across different regions, categories, and segments
-## The goal is to perform an in-depth business performance analysis and identify key factors influencing profitability.
+This Tableau project explores the Sample Superstore dataset to uncover insights into sales, profit, and customer behavior across different regions, categories, and segments
+The goal is to perform an in-depth business performance analysis and identify key factors influencing profitability.
 
 # Objectives
 
@@ -21,8 +21,8 @@
 
 - Key Columns:
 
-    -- Order ID, Order Date, Ship Mode
+     -Order ID, Order Date, Ship Mode
 
-    -- Customer Name, Segment, Region
+     -Customer Name, Segment, Region
 
-    -- Category, Sub-Category, Sales, Profit, Quantity, Discount
+     -Category, Sub-Category, Sales, Profit, Quantity, Discount
