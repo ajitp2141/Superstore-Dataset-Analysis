@@ -12,3 +12,17 @@
 - Detect loss-making products or regions for business improvement.
 
 - Provide data-driven recommendations to improve profitability and growth.
+
+# Dataset Information
+
+- Dataset Name: Sample Superstore
+
+- Source: Tableau’s built-in sample dataset (can be found in Tableau Desktop).
+
+- Key Columns:
+
+    -- Order ID, Order Date, Ship Mode
+
+    -- Customer Name, Segment, Region
+
+    -- Category, Sub-Category, Sales, Profit, Quantity, Discount
