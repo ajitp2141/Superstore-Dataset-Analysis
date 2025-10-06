@@ -1,9 +1,9 @@
-## Superstore Dataset Analysis
+# Superstore Dataset Analysis
 
-# Overview
+### Overview
 This Tableau project analyzes the Sample Superstore dataset to uncover insights on sales, profit, and customer behavior across regions, categories, and segments
 
-# Key Insights
+### Key Insights
 
 - West Region leads in revenue but has varying profit margins.
 
@@ -13,7 +13,7 @@ This Tableau project analyzes the Sample Superstore dataset to uncover insights 
 
 - Corporate segment performs steadily across years.
 
-# Dashboards
+### Dashboards
 
 - Sales Overview: Trends and key metrics
 
@@ -23,13 +23,13 @@ This Tableau project analyzes the Sample Superstore dataset to uncover insights 
 
 - Customer Segment: Profitability by customer type
 
-# Tools
+### Tools
 
 - Tableau Desktop / Public
 
 - Dataset: Tableau’s built-in Superstore
 
-# How to Use
+### How to Use
 
 - Open Sample Superstore Dataset Analysis.twbx in Tableau.
 
